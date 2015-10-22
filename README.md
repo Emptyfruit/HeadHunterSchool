@@ -1,2 +1,2 @@
 # HeadHunterSchool
-This is a test task for HeadHunter's school
+Тестовое задание для школы программирования HeadHunter.
